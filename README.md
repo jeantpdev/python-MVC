@@ -1,2 +1,2 @@
 # python_mvc
-Prueba de Python usando MVC (nivel novato)
+Primera prueba de MVC usando python (nivel novato)
